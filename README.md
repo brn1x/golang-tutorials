@@ -1,4 +1,4 @@
-# Annotations from tutorials
+# Annotations
 
 
 ## Comands
